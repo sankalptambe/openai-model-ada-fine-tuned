@@ -1,4 +1,4 @@
-### This repository fine-tunes the OpenAI ada model on the custom dataset and compares its results with scikit-learn models.
+### This repository fine-tunes the OpenAI ada model on a custom dataset and compares its results with scikit-learn models.
 
 #### The accuracy of Ada is the same as that of sklearn models (with default hyperparameters)
 
